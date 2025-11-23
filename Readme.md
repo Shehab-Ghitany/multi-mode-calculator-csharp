@@ -31,7 +31,7 @@
 - `+ - * /` : Arithmetic operations.  
 
 
-## Screenshots:
+## Screenshots: 
 ------------
 
 Launcher Screen:
